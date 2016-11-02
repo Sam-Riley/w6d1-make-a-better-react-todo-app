@@ -1,0 +1,10 @@
+* {
+    box-sizing: border-box;
+}
+
+img {
+    width: 100%;
+}
+.inputForm {
+    padding: 10px;
+}
